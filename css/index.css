@@ -1,0 +1,29 @@
+header {
+    top:0;
+    height:150px;
+    height:100%;
+}
+
+#gallery {
+    display:flex;
+    justify-content: center;
+    
+}
+
+#gallery #zoo {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height:350px;
+    width:300px;
+}
+
+#zoo img {
+    width:100%;
+    height:85%;
+}
+footer {
+    position:fixed;
+    width:100%;
+    bottom:0;
+    height:100px;
+}
