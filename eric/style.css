@@ -1,0 +1,22 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 70px;
+  }
+  .box {
+      text-align: center;
+      background-color: chocolate;
+      font-size: 30px;
+      margin: auto;
+      width: 20%;
+      border: 3px solid rgb(0, 255, 98);
+      padding: 40px;
+  }
+  body {
+      text-align: center;
+      background-color: bisque;
+      font-size: 50px;
+
+  }
