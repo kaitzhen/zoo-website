@@ -1,11 +1,12 @@
 header {
-    background-color: #816C62;
-    color:antiquewhite;
+    background-color: #345E7D;
+    color:white;
 }
 
-#panda-gallery {
-    background-color:antiquewhite;
+#peacock-gallery {
+    background-color:#88A9C3;
     height:100%;
+    
 }
 
 img {
@@ -23,7 +24,7 @@ img {
 }
 
 footer {
-    background-color: #816C62;
+    background-color: #345E7D;
     color:antiquewhite;
     bottom:0;
     position:fixed;
