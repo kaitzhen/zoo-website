@@ -14,3 +14,11 @@ img {
 img:hover {
     opacity:0.75;
 }
+
+
+footer {
+    bottom:0;
+    position:fixed;
+    width:100%;
+    
+}
