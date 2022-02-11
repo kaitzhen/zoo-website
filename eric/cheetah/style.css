@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(255, 153, 0);
+    background-image: url(img/background1.jpg);
+    padding: 10px;
+
+  }
+  
+  .header {
+    color: rgb(255, 196, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(123, 131, 75);
+  }
+    .box {
+    margin: auto;
+    background-color: rgb(38, 145, 91);
+
+    font-size: 35px;
+}
+  body {
+      text-align: center;
+      border-color: 10px solid black;
+  }
+  form {
+      text-align: left;
+  }
