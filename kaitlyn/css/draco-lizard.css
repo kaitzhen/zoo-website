@@ -1,0 +1,33 @@
+header {
+    background-color: #b69121;
+    color: white;
+}
+
+#draco-gallery {
+    background-color: #ffe169;
+    height:100%;
+    
+}
+
+img {
+    width:100%; 
+    max-width:350px;
+    height:100%;
+    max-height:200px;
+    margin-bottom: 8px;
+    margin-top:8px;
+}
+
+#desc p {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+footer {
+    background-color: #b69121;
+    color:antiquewhite;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    
+}
