@@ -1,11 +1,12 @@
 header {
-    background-color: #393e41;
-    color:#f0fff1;
+    background-color: #6c584c;
+    color: white;
 }
 
-#panda-gallery {
-    background-color: #f0fff1;
+#tanuki-gallery {
+    background-color: #a98467;
     height:100%;
+    
 }
 
 img {
@@ -23,8 +24,8 @@ img {
 }
 
 footer {
-    background-color: #393e41;
-    color:#f0fff1;
+    background-color: #6c584c;
+    color:antiquewhite;
     bottom:0;
     position:fixed;
     width:100%;
