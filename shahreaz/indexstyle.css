@@ -1,0 +1,60 @@
+body{
+  background-color: rgb(107, 4, 139);
+  text-align: center;
+  height:1000px;
+}
+
+h1 {
+  color:white;
+  background-color: darkblue;
+  background-position:center;
+  height:50px;
+  font-size:45px;
+  padding:20px;
+}
+h2 {
+  color:aquamarine;
+  font-family:Brush Script MT;
+  font-size:35px;
+}
+.link {
+  background-color: #a101fdd0;
+  border: 10px solid rgb(0, 0, 0);
+  padding: 70px;
+  display:table;
+  margin: auto;
+  width: 55px;
+  height: 170px;
+  line-height: 60px;
+  font-family:comic sans ms;
+  list-style-image:url("img/angler.png");
+}
+.gif1 {
+  position:relative;
+  right:350px;
+  bottom:280px;
+  pointer-events:none;
+}
+.gif1 img {
+  width: 250px;
+  height: 200px;
+}
+.gif2 {
+  position:relative;
+  left:350px;
+  bottom:480px;
+  pointer-events:none;
+}
+.gif2 img {
+  width: 250px;
+  height: 200px;
+}
+.oar {
+  position:relative;;
+  bottom:400px;
+}
+.oar img {
+  width: 1000px;
+}
+  
+  
