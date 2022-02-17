@@ -1,0 +1,23 @@
+html {
+    background-image: url(img/background1.jpg);
+    padding: 10px;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(37, 105, 60);
+    background-color: rgb(131, 182, 157);
+}
+.box {
+    margin: auto;
+    background-color: rgb(64, 100, 167);
+    font-size: 35px;
+}
+body {
+    text-align: center;
+    border-color: 10px solid black;
+}
+form {
+    text-align: left;
+}
