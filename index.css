@@ -1,4 +1,6 @@
 header {
+    background-color: #244432;
+    color:white;
     top:0;
     height:150px;
     height:100%;
@@ -7,6 +9,7 @@ header {
 #gallery {
     display:flex;
     justify-content: center;
+    background-color: #47975f;
     
 }
 
@@ -21,9 +24,16 @@ header {
     width:100%;
     height:85%;
 }
+
+#zoo img:hover {
+    opacity:0.75;
+}
 footer {
+    background-color: #244432;
     position:fixed;
     width:100%;
     bottom:0;
     height:100px;
+    font-style: italic;
+    color:#a8adaa
 }
