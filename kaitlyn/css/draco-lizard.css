@@ -1,6 +1,12 @@
 header {
     background-color: #b69121;
     color: white;
+    top:0;
+    height:20%;
+}
+
+body {
+    background-color: #ffe169;
 }
 
 #draco-gallery {
