@@ -1,10 +1,19 @@
 header {
     background-color: #343a40;
     color:antiquewhite;
+    top:0;
+    height:20%;
+}
+
+body {
+    background-color: #a8cc6c;
 }
 
 #gallery {
     height:100%;
+    background-color: #a8cc6c;
+    margin-top: 5%;;
+    margin-bottom:5%;
 }
 
 img {
