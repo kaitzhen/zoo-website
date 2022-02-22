@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(4, 94, 4);
+    width: auto;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+form{
+    text-align: left;
+}
+#textbox {
+    background-color: darkolivegreen;
+    position: relative;
+    font-size: 25px;
+    margin: auto;
+    width: 75%;
+}
+#header{
+    text-align: center;
+    font-size: 5em;
+}
