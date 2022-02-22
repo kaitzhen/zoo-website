@@ -1,6 +1,12 @@
 header {
     background-color: #6c584c;
     color: white;
+    top:0;
+    height:20%;
+}
+
+body {
+    background-color: #a98467;
 }
 
 #tanuki-gallery {

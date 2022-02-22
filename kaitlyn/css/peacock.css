@@ -1,6 +1,12 @@
 header {
     background-color: #345E7D;
     color:white;
+    top:0;
+    height:20%;
+}
+
+body {
+    background-color: #88A9C3;
 }
 
 #peacock-gallery {

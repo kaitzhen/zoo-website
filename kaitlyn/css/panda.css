@@ -1,11 +1,18 @@
 header {
     background-color: #393e41;
     color:#f0fff1;
+    top:0;
+    height:20%;
+}
+
+body {
+    background-color: #f0fff1;
 }
 
 #panda-gallery {
     background-color: #f0fff1;
     height:100%;
+    
 }
 
 img {
