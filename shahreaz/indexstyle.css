@@ -50,12 +50,9 @@ h2 {
   width: 300px;
   height: 200px;
 }
-.oar {
-  position:relative;;
-  bottom:400px;
+form {
+  text-align:left;
 }
-.oar img {
-  width: 1000px;
-}
+
   
   
