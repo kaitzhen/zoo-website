@@ -1,0 +1,21 @@
+body{
+    background-color:tan;
+    width: auto;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+}
+form{
+    text-align: left;
+}
+#textbox{
+    background-color:bisque;
+    position: relative;
+    font-size: 25px;
+    margin: auto;
+    width: 75%;
+}
+#header{
+    text-align: center;
+    font-size: 5em;
+}
